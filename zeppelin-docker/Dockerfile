@@ -16,12 +16,5 @@ CMD ["/zeppelin-0.6.2-bin-all/bin/zeppelin.sh"]
 
 
 
-#docker stop $(docker ps -a -q)
-#docker rm $(docker ps -a -q)
-
-#docker && -tid tozo/zeppelin /bin/bash
-#docker exec -tid 32 /bin/bash
-#docker && -tid -p8080:8080 tozo/zeppelin
-
 
 
